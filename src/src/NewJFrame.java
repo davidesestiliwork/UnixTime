@@ -26,7 +26,7 @@ public class NewJFrame extends javax.swing.JFrame {
             }
         };
         
-        new java.util.Timer().schedule(tt, 1000, 1000);
+        new java.util.Timer().schedule(tt, 0, 1000);
     }
 
     /**
