@@ -6,7 +6,6 @@
             <name>UnixTime</name>
             <source-roots>
                 <root id="src.dir"/>
-                <root id="src.dist.dir"/>
             </source-roots>
             <test-roots/>
         </data>
